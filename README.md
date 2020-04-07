@@ -1,6 +1,8 @@
 # GCI-Index-Vizualization-using-Tableau-and-D3.js
 
 https://pallavije.github.io/
+
+
 We have made nine visualizations including 3 svgs using the GCI data. The data fields that were taken into consideration are Country, 
 Year, 1st pillar Institutions, 2nd pillar Infrastructure, 3rd pillar Macroeconomic environment, 4th pillar Health and primary education,
 5th pillar Higher education and training,6th pillar Goods market efficiency,7th pillar Labor market efficiency, 8th pillar Financial market
